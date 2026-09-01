@@ -82,7 +82,7 @@ Through this activity, I learned that good presentation design is not only about
 ### 🖼️ My Output
 
 <p align="center">
-  <img src="https://github.com/franzineancheta/FCA-Digital-Portfolio/blob/1f99d9b54ef0ca698fb716ee4e24e9d8b5147df3/ACTIVITY%201%20-%20GE%204120_ANCHETA.png" width="70%">
+<img width="1414" height="2000" alt="ACTIVITY 1 - GE 4120_BONIFACIO" src="https://github.com/user-attachments/assets/595e7022-4fb9-4cf0-ac77-e1372ea664de" />
 </p>
 
 ---
