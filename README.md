@@ -127,8 +127,10 @@ It helped me understand that design choices can say something about who we are w
 ### 🖼️ My Outputs
 
 <p align="center">
-  <img src="https://github.com/franzineancheta/FCA-Digital-Portfolio/blob/1f99d9b54ef0ca698fb716ee4e24e9d8b5147df3/ACTIVITY%202%20-%20GE%204120_ANCHETA%20-%201.png" width="45%">
-  <img src="https://github.com/franzineancheta/FCA-Digital-Portfolio/blob/1f99d9b54ef0ca698fb716ee4e24e9d8b5147df3/ACTIVITY%202%20-%20GE%204120_ANCHETA%20-%203.png" width="45%">
+<img width="2000" height="1308" alt="ACTIVITY 2 1 - GE 4120_BONIFACIO" src="https://github.com/user-attachments/assets/5b87a274-7c76-4e85-88e8-f15f4545b1ac" />
+<img width="2000" height="1308" alt="HEADER_BONIFACIO" src="https://github.com/user-attachments/assets/1ae0cbdb-3f5d-45ce-a437-502b4397d69f" />
+<img width="2000" height="1308" alt="TAGLINE_BONIFACIO" src="https://github.com/user-attachments/assets/cb94813c-9540-4bf9-97d3-6f35b212ceef" />
+<img width="2000" height="1308" alt="ACTIVITY 2 2 - GE 4120_BONIFACIO" src="https://github.com/user-attachments/assets/980493cc-ac76-411a-aa1c-89268d85b0d0" />
 </p>
 
 ---
@@ -163,7 +165,7 @@ A well-designed infographic can make an important topic easier to understand and
 ### 🖼️ My Output
 
 <p align="center">
-  <img src="https://github.com/franzineancheta/FCA-Digital-Portfolio/blob/1f99d9b54ef0ca698fb716ee4e24e9d8b5147df3/ACTIVITY%203%20-%20GE%204120_ANCHETA.png" width="70%">
+<img width="943" height="2000" alt="ACTIVITY 3 - GE 4120_BONIFACIO" src="https://github.com/user-attachments/assets/af56f93a-c77f-4479-a813-2ae45b44166a"/>
 </p>
 
 ---
