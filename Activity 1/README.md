@@ -1,5 +1,6 @@
 <img width="1414" height="2000" alt="ACTIVITY 1 - GE 4120_BONIFACIO" src="https://github.com/user-attachments/assets/dcbd5de3-e9d2-4eac-98b7-7f0af8db2b35" />
-☕️ About This Activity
+
+☕️ **About This Activity**
 
 This activity focused on applying presentation design principles to create a poster that is visually organized, attention-grabbing, and easy to understand at a glance.
 
