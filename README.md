@@ -37,13 +37,13 @@ GitHub's interface was intimidating at first simply because there were so many f
 
 | # | Activity | Focus |
 |---|---|---|
-| ☕ 01 | Presentation Design Principles | Visual hierarchy, balance, and contrast |
+| ☕ 01 | Presentation Design Principles | Visual hierarchy and balance |
 | 🌷 02 | Color Palette & Typography | Personal identity through color and font |
 | 🩺 03 | Social Media Infographic | Health education and public awareness |
 
 <div align="center">
 
-──────────── ✦ ────────────
+°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
 
 </div>
 
@@ -69,7 +69,7 @@ I built the poster around a few key design principles:
 ### Output
 
 <p align="center">
-<img width="500" alt="Activity 1 - Free Coffee Poster" src="ACTIVITY_2_-_GE_4120_BONIFACIO_-_5.png" />
+<img width="1414" height="2000" alt="ACTIVITY 2 - GE 4120_BONIFACIO - 5" src="https://github.com/user-attachments/assets/1aff8a5a-2d60-45d9-b1f4-9d95d5b3e7df" />
 </p>
 
 ### Reflection
@@ -78,7 +78,7 @@ This activity taught me that good design isn't just about making something look 
 
 <div align="center">
 
-──────────── ✦ ────────────
+°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
 
 </div>
 
@@ -114,10 +114,11 @@ Once I settled on the palette and fonts, I applied them across four connected ou
 ### Output
 
 <p align="center">
-<img width="500" alt="Color Palette and Typography" src="ACTIVITY_2_-_GE_4120_BONIFACIO_-_COLORTYPOGRAPHY_BONIFACIO.png" /><br/>
-<img width="500" alt="Personal Logo" src="ACTIVITY_2_-_GE_4120_BONIFACIO_-_PERSONAL_LOGO_BONIFACIO.png" /><br/>
-<img width="500" alt="Header Design" src="ACTIVITY_2_-_GE_4120_BONIFACIO_-_HEADER_BONIFACIO.png" /><br/>
-<img width="500" alt="Tagline Design" src="ACTIVITY_2_-_GE_4120_BONIFACIO_-_TAGLINE_BONIFACIO.png" />
+<img width="2000" height="1308" alt="ACTIVITY 2 - GE 4120_BONIFACIO - COLORTYPOGRAPHY_BONIFACIO" src="https://github.com/user-attachments/assets/5ae61d44-0f83-4287-b545-45e3bd475b6d" />
+<img width="2000" height="1308" alt="ACTIVITY 2 - GE 4120_BONIFACIO - HEADER_BONIFACIO" src="https://github.com/user-attachments/assets/cce46335-45b4-463d-b1cb-e4052d4f060d" />
+<img width="2000" height="1308" alt="ACTIVITY 2 - GE 4120_BONIFACIO - TAGLINE_BONIFACIO" src="https://github.com/user-attachments/assets/d33903b4-601a-406f-9f66-ce1efb64095c" />
+<img width="2000" height="1308" alt="ACTIVITY 2 - GE 4120_BONIFACIO - PERSONAL LOGO_BONIFACIO" src="https://github.com/user-attachments/assets/c6458d31-7b90-4251-976e-9595c2d61f4c" />
+
 </p>
 
 ### Reflection
@@ -126,7 +127,7 @@ This activity showed me how much color and font choices can say about a person w
 
 <div align="center">
 
-──────────── ✦ ────────────
+°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
 
 </div>
 
@@ -154,7 +155,7 @@ Visually, I used a soft pink color scheme with a wilting brain illustration as t
 ### Output
 
 <p align="center">
-<img width="500" alt="Activity 3 - Infographic on Brain Drain in Nursing" src="Infographic_Bonifacio.png" />
+<img width="943" height="2001" alt="Infographic_Bonifacio" src="https://github.com/user-attachments/assets/2c7e3a05-301b-4a50-8dc0-7af10ee5e9e2" />
 </p>
 
 ### Reflection
@@ -163,7 +164,7 @@ This activity showed me that design isn't just decorative — it can be a tool f
 
 <div align="center">
 
-──────────── ✦ ────────────
+°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
 
 </div>
 
