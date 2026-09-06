@@ -1,50 +1,45 @@
-# JUL’S DIGITAL PORTFOLIO
+# 💗 JULIANNE'S DIGITAL PORTFOLIO
 
 <p align="center">
-  <b>Digital Portfolio | GE 4120</b>
+  <b>GE 4120 – 21st Century IT Skills</b><br/>
+  <i>Prelim Term Digital Portfolio</i>
 </p>
 
 <p align="center">
-  🖥️ 21st Century IT Skills 🌏
+  Julianne Faye O. Bonifacio · BSN 4F
 </p>
 
 ---
 
-## WHAT CAN YOU EXPECT IN MY PORTFOLIO?
+## 🗂️ REPOSITORY OVERVIEW
 
-In this **Prelim Digital Portfolio!**
+Welcome to my digital portfolio! This repository holds everything I produced during the Prelim period for GE 4120 — a poster, a personal color and typography set, and a social media infographic. Beyond just storing files, I wanted this space to actually *tell the story* of how my design skills developed activity by activity, so I built it with that progression in mind.
 
-This repository contains the activities and outputs I completed during the prelim term. It showcases my learning in **presentation design, color palette, typography, visual communication, and infographic design**.
+### Building the Repository
 
-Through these activities, I explored how visual elements can be used to communicate ideas clearly, creatively, and effectively.
+Since I had never used GitHub before this course, my starting point was simply figuring out what a repository even was. I created a new repository from my GitHub account, gave it a clear name tied to the course, and treated it as the "home base" for all my Prelim outputs. From there, I explored the interface tab by tab — the file upload option, the commit history, and eventually the README editor — until I understood roughly how everything fit together.
 
----
+### Uploading and Organizing My Outputs
 
-# 💻 MY GITHUB EXPERIENCE
+I uploaded my finished designs as image files straight into the repository. Rather than dumping everything in with generic names, I labeled each file according to the activity and output it belonged to (poster, color palette, logo, header, tagline, and infographic), so the repository stays easy to navigate even without opening the README. Inside the README itself, I organized the files in the order I created them — Activity 1 through Activity 3 — so a visitor scrolling through can follow the same sequence I did while learning.
 
-This was my **first time encountering GitHub**, so at first, I found it confusing because there were a lot of buttons and features that I was not familiar with.
+### Making the Portfolio Presentable
 
-To address this, I watched **YouTube tutorials** and asked for advice from people I know who already had experience using GitHub.
+To make the page easier to read at a glance, I broke it into clear sections with headers, embedded my actual output images instead of just linking to them, and paired each output with a short explanation of what it is and why I made the choices I did. I also kept formatting consistent — same heading style, same layout pattern per activity — so the page feels put together rather than like a random collection of files.
 
-Through this experience, I gradually learned how to:
+### Challenges Along the Way
 
-📁 Create a repository
-⬆️ Upload files
-📝 Edit a README file
-🗂️ Organize my outputs
-🌐 Present my work digitally
-
-Although GitHub was challenging at first, learning how to use it helped me create a **more organized and accessible digital portfolio**.
+GitHub's interface was intimidating at first simply because there were so many features I didn't recognize — branches, commits, markdown syntax, and so on. I got past this mainly through trial and error: watching short tutorials, testing things out in my own repository, and asking classmates and friends who already had GitHub experience whenever I got stuck. Formatting the README in Markdown also took some getting used to, especially getting images to display properly, but repeating the process across my three activities helped it click.
 
 ---
 
-# 📚 MY ACTIVITIES
+## 📚 ACTIVITY SUMMARY
 
-| # | Activity | Main Focus |
+| # | Activity | Focus |
 |---|---|---|
-| ☕ 01 | Presentation Design Principles | Visual Design |
-| 🌈 02 | Color Palette & Typography | Personality & Visual Identity |
-| 💉 03 | Social Media Infographic | Education & Awareness |
+| ☕ 01 | Presentation Design Principles | Visual hierarchy, balance, and contrast |
+| 🌷 02 | Color Palette & Typography | Personal identity through color and font |
+| 🩺 03 | Social Media Infographic | Health education and public awareness |
 
 <div align="center">
 
@@ -52,43 +47,34 @@ Although GitHub was challenging at first, learning how to use it helped me creat
 
 </div>
 
-<br>
-# ☕ ACTIVITY 01
-## Presentation Design Principles
+## ☕ ACTIVITY 01: PRESENTATION DESIGN PRINCIPLES
 
-### 📌 Free Coffee Promotional Poster
+### The Concept
 
-For my first activity, **Presentation Design Principles**, I created a promotional poster featuring **Free Coffee at Arrupe Hall in Ateneo de Davao University**.
+For this activity, I designed a promotional poster announcing a **free coffee giveaway at Arrupe Hall, Booth 7**, tied to the School of Nursing. I wanted the poster to feel warm and inviting rather than like a plain announcement — something that would actually stop students walking by and make them want to check it out.
 
-The concept was to create a **warm and inviting poster** that would immediately catch the attention of students while clearly communicating the event information.
+### Why This Concept
 
-### 🎨 Design Principles Applied
+Coffee felt like a natural and relatable subject: it's something almost every student can connect with, especially during a busy school week. I leaned into that familiarity by using a close-up photo of hands cradling a coffee cup, surrounded by coffee beans, to create an immediate warm and cozy feeling before the audience even reads the text.
 
-**Visual Hierarchy**
+### How I Developed It
 
-I made **"Free Coffee"** the largest and most noticeable element. This allows the audience to immediately understand the main message of the poster.
+I built the poster around a few key design principles:
 
-**Balance and Alignment**
+- **Visual Hierarchy** — "Kape 'ta!" and "FREE COFFEE!" are the largest, boldest elements on the page, so the main message is understood in seconds.
+- **Balance and Alignment** — The university logo sits at the top, the event details are centered in the middle, and supporting details (date, tagline, "first come, first served") are anchored near the bottom, giving the layout a clear top-to-bottom flow.
+- **Contrast** — White, bold typography sits directly over the dark coffee surface, keeping the text legible against the busy photo background.
+- **Consistency** — The warm brown and cream color tones repeat throughout the design, tying the photo, text, and overall mood together.
 
-I placed the university logo at the top, event details in the middle, and coffee-related illustrations around the layout to create a balanced composition.
-
-**Contrast**
-
-I used a light cream background with darker brown elements, allowing the text and illustrations to stand out.
-
-**Consistency and Repetition**
-
-I used the same warm brown color and repeated coffee-related elements throughout the design to create a consistent visual style.
-
-### 💭 Reflection
-
-Through this activity, I learned that good presentation design is not only about making something attractive. It is about **organizing visual elements so that the audience can easily understand the message**.
-
-### 🖼️ My Output
+### Output
 
 <p align="center">
-<img width="1414" height="2000" alt="ACTIVITY 1 - GE 4120_BONIFACIO" src="https://github.com/user-attachments/assets/595e7022-4fb9-4cf0-ac77-e1372ea664de" />
+<img width="500" alt="Activity 1 - Free Coffee Poster" src="ACTIVITY_2_-_GE_4120_BONIFACIO_-_5.png" />
 </p>
+
+### Reflection
+
+This activity taught me that good design isn't just about making something look nice — it's about guiding the viewer's eye so the most important information is impossible to miss.
 
 <div align="center">
 
@@ -96,53 +82,47 @@ Through this activity, I learned that good presentation design is not only about
 
 </div>
 
-<br>
+## 🌷 ACTIVITY 02: COLOR PALETTE AND TYPOGRAPHY
 
-# 🌈 ACTIVITY 02
-## Color Palette and Typography
+### The Concept
 
-### 🎨 Showcasing Who I Am
+For my second activity, my goal was to build a small personal brand — a color palette, font pairing, logo, header, and tagline that all felt like "me." I went with a soft, romantic **"preloved"** theme: a heart mark paired with the phrase *"loved by me, now for you."*
 
-For my second activity, **Color Palette and Typography**, my main concept was to **showcase who I am through my choice of colors and fonts**.
+### My Color Choices
 
-### 🎨 My Color Palette
+| Color | Hex Code | Feeling |
+|---|---|---|
+| 🌸 Light Pink | #ffeaf3 | Soft, gentle, feminine |
+| 🍷 Muted Mauve | #995e77 | Elegant, warm, grounded |
 
-I chose three colors:
+I kept the palette intentionally minimal — just two colors — so that everything I designed with it would feel cohesive rather than busy. The pale pink works as a soft background or accent, while the deeper mauve carries the weight of the text and logo details.
 
-| Color | Hex Code |
-|---|---|
-| 🌸 Light Pink | #E9AACA |
-| 🍋 Lime Green | #C5CD55 |
-| 💗 Muted Pink | #D875A3 |
+### My Typography Choices
 
-I chose these colors because they represent a **soft, playful, youthful, and creative** side of my personality.
+I paired three fonts to balance different moods:
 
-### 🔤 Typography
+- **Sisterhood** – a flowing script for a personal, handwritten feel
+- **Bodoni FLF** – a classic serif for elegance and readability
+- **The Youngest** – a clean serif-style font used for supporting text
 
-For my typography, I explored three different fonts:
+Together, they let me shift between playful, romantic, and polished depending on where each font shows up in my designs.
 
-**Pony Club**
-**Aprila**
-**The Youngest**
+### How I Developed the Set
 
-I chose these fonts because their unique and decorative styles allow me to express **creativity and personality**.
+Once I settled on the palette and fonts, I applied them across four connected outputs: a **color and typography reference sheet**, a **personal logo** (a heart with "Preloved You" lettered inside), a **header** with my name and contact details, and a **circular tagline design** built from the phrase "loved by me, now for you." Designing all four with the same two colors and font set was what made them feel like a single, unified identity rather than separate pieces.
 
-I also experimented with **uppercase letters, lowercase letters, and numbers** to see how each font would look in different situations.
-
-### 💭 Reflection
-
-This activity allowed me to explore how **colors and typography can reflect personality and create a visual identity**.
-
-It helped me understand that design choices can say something about who we are without directly explaining it.
-
-### 🖼️ My Outputs
+### Output
 
 <p align="center">
-<img width="2000" height="1308" alt="ACTIVITY 2 1 - GE 4120_BONIFACIO" src="https://github.com/user-attachments/assets/5b87a274-7c76-4e85-88e8-f15f4545b1ac" />
-<img width="2000" height="1308" alt="HEADER_BONIFACIO" src="https://github.com/user-attachments/assets/1ae0cbdb-3f5d-45ce-a437-502b4397d69f" />
-<img width="2000" height="1308" alt="TAGLINE_BONIFACIO" src="https://github.com/user-attachments/assets/cb94813c-9540-4bf9-97d3-6f35b212ceef" />
-<img width="2000" height="1308" alt="ACTIVITY 2 2 - GE 4120_BONIFACIO" src="https://github.com/user-attachments/assets/980493cc-ac76-411a-aa1c-89268d85b0d0" />
+<img width="500" alt="Color Palette and Typography" src="ACTIVITY_2_-_GE_4120_BONIFACIO_-_COLORTYPOGRAPHY_BONIFACIO.png" /><br/>
+<img width="500" alt="Personal Logo" src="ACTIVITY_2_-_GE_4120_BONIFACIO_-_PERSONAL_LOGO_BONIFACIO.png" /><br/>
+<img width="500" alt="Header Design" src="ACTIVITY_2_-_GE_4120_BONIFACIO_-_HEADER_BONIFACIO.png" /><br/>
+<img width="500" alt="Tagline Design" src="ACTIVITY_2_-_GE_4120_BONIFACIO_-_TAGLINE_BONIFACIO.png" />
 </p>
+
+### Reflection
+
+This activity showed me how much color and font choices can say about a person without a single word of explanation — design really can express personality on its own.
 
 <div align="center">
 
@@ -150,88 +130,36 @@ It helped me understand that design choices can say something about who we are w
 
 </div>
 
-<br>
+## 🩺 ACTIVITY 03: SOCIAL MEDIA INFOGRAPHIC
 
-# 💉 ACTIVITY 03
-## Social Media Infographic
+### The Concept
 
-### 📱 Vaccine Hesitancy
+For my final Prelim activity, I created a social media infographic titled **"Napakaraming nars dito sa amin ngunit bakit tila walang natira?"** — tackling the issue of **brain drain in the nursing profession**.
 
-For my third activity, I created a **social media infographic about vaccine hesitancy**.
+### Why This Topic
 
-The concept was to present information about vaccine hesitancy in a way that is **simple, informative, and easy to understand**, especially for people viewing it on social media.
+As a nursing student myself, this topic felt personal and directly relevant. It's a conversation I've heard often — the country produces many nurses, yet a large share leave to work abroad, leaving local healthcare short-staffed. I wanted to turn that everyday observation into something visual and shareable that could raise awareness beyond the classroom.
 
-### 🎨 Design Approach
+### How I Developed It
 
-I first identified the important information I wanted to communicate. I then organized the content into sections and used:
+I structured the infographic to move logically from problem to solution:
 
-🎨 Visual elements
-🔤 Typography
-🌈 Colors
-📐 Clear layout
-📝 Concise information
+1. **What is brain drain in nursing?** — a clear definition, plus a statistic showing that Filipinos make up 13% of immigrant healthcare professionals abroad.
+2. **Factors of brain drain** — political instability, economic hardship, and better opportunities abroad.
+3. **Effects of brain drain** — a shrinking local workforce and a strained healthcare economy.
+4. **Possible solutions** — better wages, improved privileges for nurses, and stronger investment in medical resources and technology.
 
-Since infographics are meant to communicate information quickly, I avoided overwhelming the audience with too much text and focused on the most important points.
+Visually, I used a soft pink color scheme with a wilting brain illustration as the central image — a symbolic way of representing the "draining" of talent — paired with bold text blocks to keep each section skimmable for a social media audience. I also cited all my sources at the bottom to keep the information credible.
 
-### 💭 Reflection
-
-This activity taught me that visual design can also be used for **education and awareness**.
-
-A well-designed infographic can make an important topic easier to understand and encourage people to pay attention to the message.
-
-### 🖼️ My Output
+### Output
 
 <p align="center">
-<img width="943" height="2000" alt="ACTIVITY 3 - GE 4120_BONIFACIO" src="https://github.com/user-attachments/assets/af56f93a-c77f-4479-a813-2ae45b44166a"/>
+<img width="500" alt="Activity 3 - Infographic on Brain Drain in Nursing" src="Infographic_Bonifacio.png" />
 </p>
 
----
+### Reflection
 
-# 💡 WHAT I LEARNED
-
-Through my three activities, I learned that effective presentation design is a combination of:
-
-### 🎨 Creativity
-
-Designing visuals that are unique, attractive, and engaging.
-
-### 🗂️ Organization
-
-Arranging information and visual elements in a clear and understandable way.
-
-### 💬 Communication
-
-Making sure that the intended message can be easily understood by the audience.
-
-### 👀 Visual Design
-
-Using **layout, colors, typography, images, and visual hierarchy** to communicate ideas effectively.
-
----
-
-# 🌟 THE IMPORTANCE OF PRESENTATION DESIGN
-
-For me, **presentation design is like telling a story through visuals**.
-
-A good presentation does not simply place information on a screen. It guides the audience from one idea to another, just like a story has a beginning, middle, and end.
-
-Through **layout, colors, typography, images, and organization**, we can communicate ideas more clearly, improve understanding, and keep the audience engaged.
-
-From my three activities, I learned that effective presentation design is a combination of:
-
- 🎨 **Creativity** + 🗂️ **Organization** + 💬 **Communication**
-
-It allows us to transform information into something that is not only visually appealing but also **meaningful and easier to remember**.
-
-Ultimately, **presentation design is about telling a story in a way that the audience can see, understand, and connect with.**
-
----
-
-# 🎥 DIGITAL PORTFOLIO PRESENTATION
-
-I also created a **5-minute video presentation** explaining my digital portfolio, my activities, my design process, and what I learned.
-
-📹 **[Watch My Portfolio Presentation](#)**
+This activity showed me that design isn't just decorative — it can be a tool for education and advocacy, turning a serious issue into something people will actually stop, read, and remember.
 
 <div align="center">
 
@@ -239,22 +167,22 @@ I also created a **5-minute video presentation** explaining my digital portfolio
 
 </div>
 
-<br>
+## 💡 WHAT I LEARNED THIS TERM
 
-# 🌷 FINAL REFLECTION
+Working through these three activities, I found that strong visual communication really comes down to a few things working together:
 
-This prelim portfolio represents my progress in learning **digital and visual communication**.
+- **Creativity** — coming up with a concept that feels intentional, not random
+- **Organization** — arranging colors, text, and images so the eye knows where to go
+- **Communication** — making sure the intended message actually lands with the audience
 
-From creating a promotional poster, exploring my personal color and typography choices, to developing an educational infographic, each activity helped me understand a different aspect of presentation design.
-
-Most importantly, I learned that design is not simply about making something look good. It is about **communicating ideas in a way that people can see, understand, and connect with**.
+From a coffee poster, to a personal brand system, to a health awareness infographic, each activity pushed me to think more carefully about *why* a design choice works — not just whether it looks good.
 
 ---
 
 ## ✨ THANK YOU!
 
 <p align="center">
-  <b>Thank you for viewing my Prelim Digital Portfolio! 🌸</b>
+  <b>Thank you for taking the time to explore my Prelim Digital Portfolio! 🌸</b>
 </p>
 
 <p align="center">
@@ -264,9 +192,9 @@ Most importantly, I learned that design is not simply about making something loo
 ---
 
 <p align="center">
-  💻 <b>Created by Franzine Ancheta</b>
+  💻 <b>Created by Julianne Faye O. Bonifacio</b>
 </p>
 
 <p align="center">
   GE 4120 • Prelim Digital Portfolio
-</p>
+</
