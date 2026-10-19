@@ -103,6 +103,7 @@ Through this activity, we learned how to navigate both platforms, understand the
 
 </div>
 
+<br>
 
 # REFLECTION
 
