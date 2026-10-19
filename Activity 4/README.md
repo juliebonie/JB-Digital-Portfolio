@@ -2,10 +2,12 @@
  ɢᴏᴏɢʟᴇ ᴍᴇᴇᴛ ᴀɴᴅ ɢᴏᴏɢʟᴇ ꜰᴏʀᴍꜱ
 </i>
 
+<img width="2001" height="1308" alt="image" src="https://github.com/user-attachments/assets/9dc3be22-18b0-4935-a2eb-b1ef922c6e40" />
+
 <br>
 <br>
 
-Overview
+
 
 <div align="center">
   
@@ -64,7 +66,8 @@ Through this activity, we learned how to navigate both platforms, understand the
 </p>
 </i>
 
-More
+<img width="2001" height="1308" alt="image" src="https://github.com/user-attachments/assets/8e50728a-f834-412e-8921-21f87b143278" />
+
 
 <br>
 
