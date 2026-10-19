@@ -119,7 +119,7 @@ Through this activity, we learned how to navigate both platforms, understand the
 </div>
 
 
-<a href="Activity%204%20Outputs/GROUP-4-FORMS%20AND%20MEET%20PPT.pdf">
+<a href="Activity 4 Outputs/GROUP-4-FORMS-AND-MEET-PPT.pdf">
   📄 View Google Meet & Forms PPT →
 </a>
 
