@@ -4,11 +4,6 @@
 
 # OVERVIEW
 
-<div align="center">
-
-°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
-
-</div>
 
 <br>
 <br>
@@ -72,12 +67,15 @@ Through this activity, we learned how to navigate both platforms, understand the
 </p>
 </i>
 
-# MORE
+
 <div align="center">
 
 °❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
 
 </div>
+
+# MORE
+
 
 
 <br>
