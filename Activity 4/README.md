@@ -114,6 +114,7 @@ Although I was already familiar with the basic features of Google Workspace, thi
 
 <br>
 
+<div align="center">
 
 <a href="Activity 4 Outputs/GROUP-4-FORMS-AND-MEET-PPT.pdf">
   📄 View Google Meet & Forms PPT →
