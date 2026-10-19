@@ -102,10 +102,6 @@ Although I was already familiar with the basic features of Google Workspace, thi
 
 
 <br>
-<br>
-
-
-<br>
 
 # MORE
 
