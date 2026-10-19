@@ -83,8 +83,6 @@ Through this activity, we learned how to navigate both platforms, understand the
 
 <i>
 <p align="justify">
-### REFLECTION
-
 Through this activity, I learned more about how Google Meet and Google Forms can be used to make communication, collaboration, and information gathering easier and more organized. Google Meet allows people to connect and work together virtually, while Google Forms can be used to create quizzes, gather feedback, and collect responses efficiently.
 
 </p>
