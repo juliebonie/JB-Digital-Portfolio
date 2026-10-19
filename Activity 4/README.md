@@ -113,7 +113,6 @@ Although I was already familiar with the basic features of Google Workspace, thi
 </p>
 
 <br>
-</div>
 
 
 <a href="Activity 4 Outputs/GROUP-4-FORMS-AND-MEET-PPT.pdf">
@@ -133,6 +132,8 @@ Although I was already familiar with the basic features of Google Workspace, thi
 <a href="Activity 4 Outputs/GE-4120-_-G4_Quiz.pdf">
   📊 View Classmates' Quiz Scores →
 </a>
+
+</div>
 
 <br>
 <br>
