@@ -78,7 +78,8 @@ More
 <br>
 
 <p align="center">
-<img src="../assets/group-4.png" width="800">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c52aa46a-689b-492b-a297-a3baad7384ab" />
+
 </p>
 
 <br>
