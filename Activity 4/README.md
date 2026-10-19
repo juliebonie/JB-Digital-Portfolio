@@ -133,7 +133,7 @@ Through this activity, we learned how to navigate both platforms, understand the
 <br>
 <br>
 
-<a href="Activity 4/Activity 4 Outputs/GE-4120-_-G4_Quiz.pdf">
+<a href="Activity 4 Outputs/GE-4120-_-G4_Quiz.pdf">
   📊 View Classmates' Quiz Scores →
 </a>
 
