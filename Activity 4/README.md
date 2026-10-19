@@ -64,7 +64,9 @@ Through this activity, we learned how to navigate both platforms, understand the
 </p>
 </i>
 
-<img src="../assets/more.png" width="800">
+More
+
+<br>
 
 <div align="center">
 
