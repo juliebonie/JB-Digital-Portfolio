@@ -74,12 +74,6 @@ Through this activity, we learned how to navigate both platforms, understand the
 
 </div>
 
-<div align="center">
-
-°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
-
-</div>
-
 <br>
 
 # REFLECTION
