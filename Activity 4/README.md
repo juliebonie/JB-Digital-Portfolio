@@ -2,7 +2,8 @@
  ɢᴏᴏɢʟᴇ ᴍᴇᴇᴛ ᴀɴᴅ ɢᴏᴏɢʟᴇ ꜰᴏʀᴍꜱ
 </i>
 
-<img width="2001" height="1308" alt="image" src="https://github.com/user-attachments/assets/9dc3be22-18b0-4935-a2eb-b1ef922c6e40" />
+# OVERVIEW
+°❀⋆.ೃ࿔:･°❀⋆.ೃ࿔:･°❀⋆.ೃ࿔:･°❀⋆.ೃ࿔:･
 
 <br>
 <br>
