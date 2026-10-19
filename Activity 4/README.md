@@ -126,7 +126,7 @@ Through this activity, we learned how to navigate both platforms, understand the
 <br>
 <br>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfperDHgiW2recV86enfxMl6Lav0aZCxHtS3fycjsJGuVEPvw/viewform?usp=sharing&ouid=118413879498339873868">
+<a href=Activity 4/Activity 4 Outputs/GE-4120-_-G4_Quiz.pdf>
   📝 View Google Forms Quiz →
 </a>
 
