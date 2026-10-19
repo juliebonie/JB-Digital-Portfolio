@@ -4,11 +4,12 @@
 
 <br>
 
-<img src="../assets/overview.png" width="800">
+<img src="" width="800">
 
 <div align="center">
   
-<img src="../assets/gmeet-gforms.png" width="300">
+<img src="<img width="406" height="192" alt="image" src="https://github.com/user-attachments/assets/71baf295-074a-466f-a581-3acb3efe5a8a" />
+" width="300">
 
 </div>
 
