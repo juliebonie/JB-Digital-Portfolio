@@ -74,19 +74,6 @@ Through this activity, we learned how to navigate both platforms, understand the
 
 </div>
 
-# MORE
-
-<br>
-<br>
-
-<p align="center">
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c52aa46a-689b-492b-a297-a3baad7384ab" />
-
-</p>
-
-<br>
-
-
 <div align="center">
 
 °❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
@@ -116,6 +103,15 @@ Through this activity, we learned how to navigate both platforms, understand the
 
 °❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
 
+<br>
+<br>
+
+<p align="center">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c52aa46a-689b-492b-a297-a3baad7384ab" />
+
+</p>
+
+<br>
 </div>
 
 
