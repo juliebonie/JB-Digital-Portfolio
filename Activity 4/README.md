@@ -100,6 +100,13 @@ Through this activity, we learned how to navigate both platforms, understand the
 <br>
 <br>
 
+
+<br>
+
+# REFLECTION
+
+<br>
+
 <p align="center">
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c52aa46a-689b-492b-a297-a3baad7384ab" />
 
