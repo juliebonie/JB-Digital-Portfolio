@@ -24,7 +24,7 @@ This activity explores the purpose, features, and practical applications of <b>G
 <tr>
 <td width="14%" align="center">
 
-<img src="../assets/gmeet.png" width="300">
+<img width="466" height="464" alt="image" src="https://github.com/user-attachments/assets/41afd579-7df8-4aaf-99d6-3335df82e02a" />
 
 </td>
 
@@ -43,7 +43,7 @@ This activity explores the purpose, features, and practical applications of <b>G
 <tr>
 <td width="14%" align="center">
 
-<img src="../assets/gforms.png" width="300">
+<img width="574" height="574" alt="image" src="https://github.com/user-attachments/assets/e11dc7f0-041b-4365-b0c8-5830f1804dd9" />
 
 </td>
 
