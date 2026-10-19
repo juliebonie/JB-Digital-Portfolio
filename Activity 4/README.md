@@ -96,7 +96,15 @@ Through this activity, we learned how to navigate both platforms, understand the
 
 <br>
 
-<img src="../assets/reflection.png" width="800">
+
+<div align="center">
+
+°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
+
+</div>
+
+
+# REFLECTION
 
 <br>
 <br>
@@ -115,4 +123,6 @@ Through this activity, we learned how to navigate both platforms, understand the
 
 <div align="center">
 
-<img src="../assets/line.png" width="800">
+°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
+
+</div>
