@@ -83,11 +83,14 @@ Through this activity, we learned how to navigate both platforms, understand the
 
 <i>
 <p align="justify">
-𝚃𝚑𝚛𝚘𝚞𝚐𝚑 𝚝𝚑𝚒𝚜 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢, 𝙸 𝚕𝚎𝚊𝚛𝚗𝚎𝚍 𝚑𝚘𝚠 𝙶𝚘𝚘𝚐𝚕𝚎 𝙼𝚎𝚎𝚝 𝚊𝚗𝚍 𝙶𝚘𝚘𝚐𝚕𝚎 𝙵𝚘𝚛𝚖𝚜 𝚌𝚊𝚗 𝚖𝚊𝚔𝚎 𝚌𝚘𝚖𝚖𝚞𝚗𝚒𝚌𝚊𝚝𝚒𝚘𝚗, 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗, 𝚊𝚗𝚍 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚐𝚊𝚝𝚑𝚎𝚛𝚒𝚗𝚐 𝚖𝚘𝚛𝚎 𝚎𝚏𝚏𝚒𝚌𝚒𝚎𝚗𝚝. 𝙶𝚘𝚘𝚐𝚕𝚎 𝙼𝚎𝚎𝚝 𝚑𝚎𝚕𝚙𝚜 𝚙𝚎𝚘𝚙𝚕𝚎 𝚌𝚘𝚗𝚗𝚎𝚌𝚝 𝚟𝚒𝚛𝚝𝚞𝚊𝚕𝚕𝚢, 𝚠𝚑𝚒𝚕𝚎 𝙶𝚘𝚘𝚐𝚕𝚎 𝙵𝚘𝚛𝚖𝚜 𝚖𝚊𝚔𝚎𝚜 𝚒𝚝 𝚎𝚊𝚜𝚒𝚎𝚛 𝚝𝚘 𝚌𝚛𝚎𝚊𝚝𝚎 𝚚𝚞𝚒𝚣𝚣𝚎𝚜, 𝚌𝚘𝚕𝚕𝚎𝚌𝚝 𝚏𝚎𝚎𝚍𝚋𝚊𝚌𝚔, 𝚊𝚗𝚍 𝚘𝚛𝚐𝚊𝚗𝚒𝚣𝚎 𝚛𝚎𝚜𝚙𝚘𝚗𝚜𝚎𝚜. 
+### REFLECTION
+
+Through this activity, I learned more about how Google Meet and Google Forms can be used to make communication, collaboration, and information gathering easier and more organized. Google Meet allows people to connect and work together virtually, while Google Forms can be used to create quizzes, gather feedback, and collect responses efficiently.
+
 </p>
 
 <p align="justify">
-𝚃𝚑𝚒𝚜 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢 𝚑𝚎𝚕𝚙𝚎𝚍 𝚖𝚎 𝚊𝚙𝚙𝚛𝚎𝚌𝚒𝚊𝚝𝚎 𝚑𝚘𝚠 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚝𝚘𝚘𝚕𝚜 𝚌𝚊𝚗 𝚜𝚞𝚙𝚙𝚘𝚛𝚝 𝚖𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚝𝚎𝚊𝚖𝚠𝚘𝚛𝚔, 𝚊𝚗𝚍 𝚏𝚞𝚝𝚞𝚛𝚎 𝚗𝚞𝚛𝚜𝚒𝚗𝚐 𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚎.
+Although I was already familiar with the basic features of Google Workspace, this activity helped me realize that these applications have more features that can be useful when used to their full potential. Exploring these tools showed me how they can make schoolwork more convenient and productive. It also helped me understand how Google Workspace can support teamwork, learning, communication, and future professional tasks, especially by making it easier to collaborate and organize information efficiently.
 </p>
 </i>
 
