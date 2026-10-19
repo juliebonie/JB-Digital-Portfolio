@@ -133,7 +133,7 @@ Through this activity, we learned how to navigate both platforms, understand the
 <br>
 <br>
 
-<a href="Activity%204%20Outputs/GE-4120_G4_Quiz.pdf">
+<a href=“https://github.com/juliebonie/JB-Digital-Portfolio/blob/e195e8b2ba355ce12641d6f1e4f7a9bb7baa53ac/Activity%204/Activity%204%20Outputs/GE-4120-_-G4_Quiz.pdf”>
   📊 View Classmates' Quiz Scores →
 </a>
 
